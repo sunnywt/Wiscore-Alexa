@@ -1,7 +1,7 @@
 **Wiscore Alexa Support USB And SD**
 
 Here you can use the firmware in wiscore directly, or build by yourself
-WisCore Quick Start: https://github.com/RAKWireless/WisCore
+[WisCore Quick Start](https://github.com/RAKWireless/WisCore)
 
 Enable usb and sdcard:
 1. download config files
@@ -12,7 +12,7 @@ Enable usb and sdcard:
      cp MT7628.dts products/wisCore/target/linux/ramips/dts/
 
 3. re-build workspace
-     refer to github: https://github.com/RAKWireless/WisCore/wiki/WisCore
+     [build](https://github.com/RAKWireless/WisCore/wiki/WisCore)
      or use command directly:
      
      ./build/envsetup.sh wisCore hgw
