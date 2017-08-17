@@ -1,7 +1,7 @@
 **Wiscore Alexa Support USB And SD**
 
 Here you can use the firmware in wiscore directly, or build by yourself
-download WisCore-SDK: https://github.com/RAKWireless/WisCore-SDK
+WisCore Quick Start: https://github.com/RAKWireless/WisCore
 
 Enable usb and sdcard:
 1. download config files
