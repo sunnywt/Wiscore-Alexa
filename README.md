@@ -8,7 +8,9 @@ Enable usb and sdcard:
 2. Replace the old config files
 
      cp .config products/wisCore/opwrt-wisavs-topv002-1-20170519.config
+     
      cp config-3.18 products/wisCore/target/linux/ramips/mt7628/config-3.18
+     
      cp MT7628.dts products/wisCore/target/linux/ramips/dts/
 
 3. re-build workspace
@@ -16,6 +18,7 @@ Enable usb and sdcard:
      or use command directly:
      
      ./build/envsetup.sh wisCore hgw
+     
      make
 
 4. Finally burn the image and use it
