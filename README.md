@@ -13,7 +13,6 @@ Enable usb and sdcard:
 
 3. re-build workspace
      refer to github: https://github.com/RAKWireless/WisCore/wiki/WisCore
-
      or use command directly:
      
      ./build/envsetup.sh wisCore hgw
