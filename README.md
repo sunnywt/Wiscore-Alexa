@@ -17,9 +17,9 @@ Enable usb and sdcard:
      [build](https://github.com/RAKWireless/WisCore/wiki/WisCore)
      or use command directly:
      
-     ./build/envsetup.sh wisCore hgw
+          ./build/envsetup.sh wisCore hgw
      
-     make
+           make
 
 4. Finally burn the image and use it
 
