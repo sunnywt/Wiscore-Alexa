@@ -6,6 +6,7 @@ WisCore Quick Start: https://github.com/RAKWireless/WisCore
 Enable usb and sdcard:
 1. download config files
 2. Replace the old config files
+
      cp .config products/wisCore/opwrt-wisavs-topv002-1-20170519.config
      cp config-3.18 products/wisCore/target/linux/ramips/mt7628/config-3.18
      cp MT7628.dts products/wisCore/target/linux/ramips/dts/
@@ -14,6 +15,7 @@ Enable usb and sdcard:
      refer to github: https://github.com/RAKWireless/WisCore/wiki/WisCore
 
      or use command directly:
+     
      ./build/envsetup.sh wisCore hgw
      make
 
